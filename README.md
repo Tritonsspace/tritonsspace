@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **an MP3 player PCB**
 
-- 🌱 I'm currently learning **Rust, React, and computational phyics**
+- 🌱 I'm currently learning **Rust, React, and computational physics**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
