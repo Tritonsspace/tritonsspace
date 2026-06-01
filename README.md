@@ -10,7 +10,7 @@
 
 - 🤝 I'm looking for help with **learning about AI and machine learning**
 
-- 📫 How to reach me **rathchaphon@gmail.com**
+- 📫 How to reach me **rathchaphon@tritonsspacecom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
